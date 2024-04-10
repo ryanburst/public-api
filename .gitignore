@@ -14,8 +14,8 @@ coverage.txt
 *.out
 
 # Files generated during the build
-static/*.html
-*.json
+# static/*.html
+# *.json
 
 vendor/
 *.log
